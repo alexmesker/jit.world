@@ -1,5 +1,5 @@
 ---
-title: New page
+title: Page 3
 ---
 # Some example code:
 

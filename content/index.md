@@ -4,5 +4,9 @@ title: jit.world
 Yoyo.
 
 
+
 This is a blank Quartz installation.
 See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+
+
+Here is [[Page 2]]
