@@ -5,3 +5,4 @@ tags:
   - that
   - other
 ---
+Here's a link to [[Page 3]].
