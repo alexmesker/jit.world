@@ -5,7 +5,7 @@ title: Introduction
 # 20 Objects: A Pragmatic Method for Learning Max/MSP/Jitter and Max for Live
 
 
-> [!note]
+> [!note] Preface
 > This is an unauthorised verbatim reproduction of Darwin Grosse's [*20 Objects Curriculum*: A Pragmatic Method for Learning Max/MSP/Jitter and Max for Live](http://20objects.com).
 > 
 > The author of this site takes no credit for the *20 Objects Curriculum* content, but has replicated it here to preserve an important resource for learning Max.

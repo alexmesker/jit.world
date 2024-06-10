@@ -20,6 +20,21 @@ Let's start by creating our first patch. It should look something like this:
 
 ![[1.1.png]]
 
+> [!patcher]-
+> ```
+> <pre><code>
+> ----------begin_max5_patcher----------
+> 299.3ocmQssZCCCC8Y6uhfeNajKcgx9UFihShnykD4fiRWFk9uOa4jltMFL1
+> Kxnikz4nitHEpZ6LLpRdN4kDg3hTHXn.fXIWn50yMc5QtLEBuaqOoRieQvLw
+> vCNCRqn3TuA6.h6HeAbPSMuYviGbPCEYLOO6wrzj7J9orHDK7wjW2FjchVmT
+> 1BpokozKiGJUAnqRYHj9GWg5Ihr3+Tr6ehU4t03un00AEgnOFf3TT0Z7n5VS
+> 2sJEpab6z8.AtC.pq63FytaM4lUcF76GNVzA7ut6i1IWyJ8KLkro6VXjLnlL
+> dKYqlxXM+fV8vvYvMtTLSg2bOYcgz8obpAioUbpCNaVqufQzNu2RdicxwxRM
+> WsSEa01BNbxvNnLbR8TxGNzaIiC53dv2W4U4mP05mdC
+> -----------end_max5_patcher-----------
+> </code></pre>
+> ```
+
 
 We create this patch by following these steps:
 
