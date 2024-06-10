@@ -1,12 +1,8 @@
 ---
 title: jit.world
 ---
-Yoyo.
+Hello.
 
+This is a project (in development, being written in public) about learning Cycling '74's Max.
 
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
-
-
-Here is [[Page 2]]
+Content is constantly being added as time permits, so expect things to be incomplete during its development.
