@@ -1,5 +1,6 @@
 ---
 title: The number box object
+tags: [max, intro, ui]
 ---
 While it is fun to bang away at buttons, we need to get to the heart of Max programming - and that involves numbers. Much of the number handling within the program is actually encapsulated into a few objects, with the most important being the number box.
 

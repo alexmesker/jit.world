@@ -1,5 +1,6 @@
 ---
 title: The button object
+tags: [max, button, ui]
 ---
 If you've done your prerequisite work (meaning that you watched some Max videos), you should understand the following:
 
@@ -176,4 +177,4 @@ This gives us a holiday tree-like spectacle, blinking the lights from top to bot
 
 ---
 
-Next: The number box object
+Next: [[2 The number box object]]
